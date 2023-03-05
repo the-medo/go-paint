@@ -1,0 +1,1 @@
+Paint-like drawing program in GO, based on ZTM course - https://zerotomastery.io/courses/learn-golang/
